@@ -1,0 +1,278 @@
+[
+  {
+    "key": "hasanabi",
+    "channel_id": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+    "label": "HasanAbi",
+    "group": "left"
+  },
+  {
+    "key": "boyboy",
+    "channel_id": "UC_HJhLq_IByfxKxYSFliMew",
+    "label": "Boy Boy",
+    "group": "left"
+  },
+  {
+    "key": "shapiro",
+    "channel_id": "UCnQC_G5Xsjhp9fEJKuIcrSw",
+    "label": "Ben Shapiro",
+    "group": "right"
+  },
+  {
+    "key": "caspian",
+    "channel_id": "UCn36IDxn_KulN95JCNrfckA",
+    "label": "Caspian Report",
+    "group": "geo"
+  },
+  {
+    "key": "timdillon",
+    "channel_id": "UC4woSp8ITBoYDmjkukhEhxg",
+    "label": "Tim Dillon",
+    "group": "left"
+  },
+  {
+    "key": "joshjohnson",
+    "channel_id": "UCLuYADJ6hESLHX87JnsGbjA",
+    "label": "Josh Johnson",
+    "group": "left"
+  },
+  {
+    "key": "novaramedia",
+    "channel_id": "UCOzMAa6IhV6uwYQATYG_2kg",
+    "label": "Novara Media",
+    "group": "left"
+  },
+  {
+    "key": "adammockler",
+    "channel_id": "UC8DA4o0SyaGfyVaBLbF5EXg",
+    "label": "Adam Mockler",
+    "group": "left"
+  },
+  {
+    "key": "penguinz0",
+    "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+    "label": "penguinz0",
+    "group": "left"
+  },
+  {
+    "key": "kallmekris",
+    "channel_id": "UCiciOsypkXcqSFqSPd-NRVA",
+    "label": "Kallmekris",
+    "group": "left"
+  },
+  {
+    "key": "lbc",
+    "channel_id": "UCb1Ti1WKPauPpXkYKVHNpsw",
+    "label": "LBC",
+    "group": "left"
+  },
+  {
+    "key": "zeteo",
+    "channel_id": "UCVG72F2Q5yCmLQfctNK6M2A",
+    "label": "Zeteo",
+    "group": "left"
+  },
+  {
+    "key": "piersmorgan",
+    "channel_id": "UCatt7TBjfBkiJWx8khav_Gg",
+    "label": "Piers Morgan",
+    "group": "left"
+  },
+  {
+    "key": "horses",
+    "channel_id": "UCrx2zrPjhGRi9TwszZiLwEg",
+    "label": "Horses",
+    "group": "left"
+  },
+  {
+    "key": "jimmydore",
+    "channel_id": "UC3M7l8ved_rYQ45AVzS0RGA",
+    "label": "Jimmy Dore",
+    "group": "left"
+  },
+  {
+    "key": "seculartalk",
+    "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+    "label": "Secular Talk",
+    "group": "left"
+  },
+  {
+    "key": "majorityreport",
+    "channel_id": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+    "label": "Majority Report",
+    "group": "left"
+  },
+  {
+    "key": "channel5news",
+    "channel_id": "UC-AQKm7HUNMmxjdS371MSwg",
+    "label": "Channel 5 News",
+    "group": "left"
+  },
+  {
+    "key": "punterspolitics",
+    "channel_id": "UCqdBkWS2pQwgPpiM4g_AYpw",
+    "label": "Punter's Politics",
+    "group": "left"
+  },
+  {
+    "key": "parkergetajob",
+    "channel_id": "UCBDRBytEt3WJ0deCBT9-clA",
+    "label": "Parker get a Job",
+    "group": "left"
+  },
+  {
+    "key": "dantoomy",
+    "channel_id": "UC_-hYjoNe4PJNFa9iZ4lraA",
+    "label": "Dan Toomy",
+    "group": "left"
+  },
+  {
+    "key": "youngturks",
+    "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "label": "Young Turks",
+    "group": "centre"
+  },
+  {
+    "key": "briantylercohen",
+    "channel_id": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "label": "Brian Tyler Cohen",
+    "group": "centre"
+  },
+  {
+    "key": "vaush",
+    "channel_id": "UC1E-JS8L0j1Ei70D9VEFrPQ",
+    "label": "Vaush",
+    "group": "right"
+  },
+  {
+    "key": "secondthought",
+    "channel_id": "UCJm2TgUqtK1_NLBrjNQ1P-w",
+    "label": "Second Thought",
+    "group": "right"
+  },
+  {
+    "key": "davidpakman",
+    "channel_id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+    "label": "David Pakman Show",
+    "group": "right"
+  },
+  {
+    "key": "tuckercarlson",
+    "channel_id": "UCGttrUON87gWfU6dMWm1fcA",
+    "label": "Tucker Carlson",
+    "group": "right"
+  },
+  {
+    "key": "mattwalsh",
+    "channel_id": "UCO01ytfzgXYy4glnPJm4PPQ",
+    "label": "Matt Walsh",
+    "group": "right"
+  },
+  {
+    "key": "charliekirk",
+    "channel_id": "UCfaIu2jO-fppCQV_lchCRIQ",
+    "label": "Charlie Kirk",
+    "group": "right"
+  },
+  {
+    "key": "jorogan",
+    "channel_id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+    "label": "Jo Rogan",
+    "group": "right"
+  },
+  {
+    "key": "alexjones",
+    "channel_id": "UC_HJhLq_IByfxKxYSFliMew",
+    "label": "Alex Jones",
+    "group": "right"
+  },
+  {
+    "key": "timpool",
+    "channel_id": "UCG749Dj4V2fKa143f8sE60Q",
+    "label": "Tim Pool",
+    "group": "right"
+  },
+  {
+    "key": "bennyjohnson",
+    "channel_id": "UCLdP3jmBYe9lAZQbY6OSYjw",
+    "label": "Benny Johnson",
+    "group": "right"
+  },
+  {
+    "key": "thedailywire",
+    "channel_id": "UCaeO5vkdj5xOQHp4UmIN6dw",
+    "label": "The Daily Wire",
+    "group": "left"
+  },
+  {
+    "key": "billburr",
+    "channel_id": "UCAp990eMLzmei84WNR4ptgA",
+    "label": "Bill Burr",
+    "group": "centre"
+  },
+  {
+    "key": "coffeezilla",
+    "channel_id": "UCFQMnBA3CS502aghlcr0_aw",
+    "label": "Coffeezilla",
+    "group": "crypto"
+  },
+  {
+    "key": "matan",
+    "channel_id": "UC0zYzxRCvUD5p1XWwE00Zzw",
+    "label": "Matan",
+    "group": "troll"
+  },
+  {
+    "key": "grimhustle",
+    "channel_id": "UC5eAFEk3psF0mIDtKVsdl4Q",
+    "label": "Grim Hustle",
+    "group": "gangster"
+  },
+  {
+    "key": "flagrant",
+    "channel_id": "UC5PstSsGrRwj2o6asQpC4Rg",
+    "label": "Flagrant",
+    "group": "right"
+  },
+  {
+    "key": "chapotraphouse",
+    "channel_id": "UCokqzNPBJ65raczldVuHAww",
+    "label": "Chapo Trap House",
+    "group": "left"
+  },
+  {
+    "key": "prageru",
+    "channel_id": "UCZWlSUNDvCCS1hBiXV0zKcA",
+    "label": "Prageru",
+    "group": "right"
+  },
+  {
+    "key": "badempenada",
+    "channel_id": "UCjY9R3_6sxfUViabj93Vnhw",
+    "label": "Bad Empenada",
+    "group": "left"
+  },
+  {
+    "key": "breakingpoints",
+    "channel_id": "UCDRIjKy6eZOvKtOELtTdeUA",
+    "label": "Breaking Points",
+    "group": "left"
+  },
+  {
+    "key": "candaceowens",
+    "channel_id": "UCL0u5uz7KZ9q-pe-VC8TY-w",
+    "label": "Candace Owens",
+    "group": "right"
+  },
+  {
+    "key": "thegrayzone",
+    "channel_id": "UC_HJhLq_IByfxKxYSFliMew",
+    "label": "The Grayzone",
+    "group": "left"
+  },
+  {
+    "key": "democracynow",
+    "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+    "label": "Democracy Now",
+    "group": "left"
+  }
+]

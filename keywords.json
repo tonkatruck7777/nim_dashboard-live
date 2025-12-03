@@ -1,0 +1,77 @@
+[
+  {
+    "key": "neuralink",
+    "label": "Neuralink",
+    "group": "technology",
+    "queries": [
+      "neuralink"
+    ]
+  },
+  {
+    "key": "ryanfoley",
+    "label": "Ryan Foley",
+    "group": "right",
+    "queries": [
+      "ryan foley"
+    ]
+  },
+  {
+    "key": "andrewtate",
+    "label": "Andrew Tate",
+    "group": "right",
+    "queries": [
+      "andrew tate"
+    ]
+  },
+  {
+    "key": "anncoulture",
+    "label": "Ann Coulture",
+    "group": "right",
+    "queries": [
+      "ann coulture"
+    ]
+  },
+  {
+    "key": "lauraloomer",
+    "label": "Laura Loomer",
+    "group": "right",
+    "queries": [
+      "laura loomer"
+    ]
+  },
+  {
+    "key": "glenngreenwald",
+    "label": "Glenn Greenwald",
+    "group": "centre",
+    "queries": [
+      "glenn greenwald"
+    ]
+  },
+  {
+    "key": "gaza_war",
+    "label": "Gaza / Israel analysis",
+    "group": "news",
+    "queries": [
+      "gaza analysis",
+      "peace plan",
+      "israel attack"
+    ]
+  },
+  {
+    "key": "us_election",
+    "label": "New York Election 2025",
+    "group": "news",
+    "queries": [
+      "Mamdami",
+      "us election"
+    ]
+  },
+  {
+    "key": "nickfuentes",
+    "label": "Nick Fuentes",
+    "group": "right",
+    "queries": [
+      "nick fuentes"
+    ]
+  }
+]
